@@ -147,3 +147,6 @@ Here's an example workflow illustrating how to create a new Dockerfile.
    you are creating an image for your own use.
 5. (Optional) Submit a PR if you think that your new image might be useful for
    others, and it will be considered for publication.
+
+Some text here
+
